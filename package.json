@@ -1,0 +1,15 @@
+{
+  "name": "medterm-estrategia",
+  "version": "1.0.0",
+  "description": "Banco de Questões Interativo de Terminologia Médica - Padrão Estratégia MED (500 Questões Comentadas)",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/questions.test.mjs",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.4.6"
+  }
+}
